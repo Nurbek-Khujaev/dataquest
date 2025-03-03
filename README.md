@@ -8,8 +8,9 @@ Each project follows a structured approach, applying real-world datasets to rein
 - **Hacker News Post Analysis** – Exploring engagement patterns in 'Ask HN' and 'Show HN' posts.  
 - **Used Car Listings Analysis** – Cleaning and analyzing eBay Kleinanzeigen car listings to find market trends.  
 - **I-94 Traffic Analysis** – Investigating traffic indicators on the I-94 interstate highway.  
+- **NYC High School SAT Scores** – Analyzing factors influencing SAT performance in NYC public schools.  
+- **Employee Resignation Analysis** – Examining resignation trends in a company to identify potential issues.   
 - *(More projects will be added as I progress!)*  
 
 ## Repository Structure  
 - Each project is organized in its own folder, containing Jupyter Notebooks (`.ipynb`) and relevant datasets (if applicable).  
-
